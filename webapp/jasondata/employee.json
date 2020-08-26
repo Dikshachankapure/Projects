@@ -1,0 +1,24 @@
+{
+	"EmployeeSet": [{
+			"EmpNo": "01",
+			"Name": "XYZ",
+			"EmpCode": "112233",
+			"MobileNo": "1234567890"
+
+		}, {
+			"EmpNo": "02",
+			"Name": "PQR",
+			"EmpCode": "223344",
+			"MobileNo": "3456789210"
+
+		}, {
+			"EmpNo": "03",
+			"Name": "LMN",
+			"EmpCode": "5463",
+			"MobileNo": "3400112233"
+
+		}
+
+	]
+
+}
